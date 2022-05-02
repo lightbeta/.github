@@ -1,5 +1,6 @@
 ## <h1> Welcome to the Light AI Github Repo 💡 </h1>
 
+![This is an image](https://uploads-ssl.webflow.com/625270350d3bbb783bc0565e/625f62efa8046cb73d5f2f23_open-light.svg)
 
 ### <h3> Mission Statement  🚀🧠 </h3>
 
